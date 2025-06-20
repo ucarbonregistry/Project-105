@@ -33,7 +33,8 @@ UCR from 15/03/2020 onwards, i.e., crediting period for UCR starts from 15/03/20
 is no double counting.
 ___________________
 ISSUED CREDITS: 129031 CoUs
-Year: 2020-2021
+
+MP-01: 2020-2021
 _________________________
 Serial Number: 0001-000001-054509-UCR-CoU-IN-105-15032020-31122020
 
