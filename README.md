@@ -35,6 +35,11 @@ The project activity replaces anthropogenic emissions of greenhouse gases (GHG�
 which is estimated to be approximately 104,068 tCO2e annually, by displacing the equivalent amount of 
 electricity generation through the operation of existing fuel mix in the grid comprising mainly fossil fuel-based power plants and future capacity expansions connected to the grid.
 
+The Project involves 75-wind energy converters (WECs) of 800 kW E-48 with internal
+electrical lines connecting the Project with local evacuation facility. The WECs generates
+3-phase power at 400V, which is stepped up to 33 KV. The Project can operate in the
+frequency range of 47.5–51.5 Hz and in the voltage range of 400 V ± 12.5%
+
 PRIOR HISTORY: 
 ______________
 UNFCCC CDM Project 1168 : Enercon Wind Farm (Hindustan) Ltd in Rajasthan
@@ -43,6 +48,47 @@ registration number 1168, as well as Gold Standard (GS) with reference number 24
 period of this project under CDM & GS is 15/03/2010 to 14/03/2020. PP seeks verification under
 UCR from 15/03/2020 onwards, i.e., crediting period for UCR starts from 15/03/2020. Hence, there
 is no double counting.
+
+CDM 1168
+
+Weblink: https://cdm.unfccc.int/Projects/DB/SGS-UKL1181742063.57/view
+
+Monitoring period/ CERs Issued
+_______________
+15/03/2010 to 30/09/2010/ 48250
+__________
+01/10/2010 to 31/08/2011/ 65767
+_________
+01/09/2011 to 30/06/2012/ 59272
+______
+01/07/2012 to 30/09/2012/ 29089
+________
+01/10/2012 to 31/08/2013 /66401
+_________
+01/09/2013 to 31/01/2015/ 89017
+__________
+01/02/2015 to 31/05/2016 /86167
+_________
+01/06/2016 to 31/08/2017/ 63492
+__________
+01/09/2012 to 30/09/2012/ Awaiting Issuance
+_____________
+
+GS 2483
+______
+Weblink: platform.sustain-cert.com/public-project/391
+_________
+Monitoring Period Issued GS CERs
+01/07/2012 to 30/09/2012 29,089
+01/10/2012 to 31/08/2013 66,401
+01/09/2013 to 31/01/2015 89,017
+01/02/2015 to 31/05/2016 86,167
+01/06/2016 to 31/08/2017 63,492
+01/09/2012 to 30/09/2012 Awaiting Issuance
+
+
+
+
 ___________________
 ISSUED CREDITS: 129031 CoUs
 
