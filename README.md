@@ -1,6 +1,18 @@
 # Project-105
 Enercon Wind Farm (Hindustan) Ltd in Rajasthan
 
+Country: India
+
+District: Jaisalmer
+
+Village: Kita & Pithodai Ki Dhani
+
+Tehsil: Fatehgarh
+
+State: Rajasthan
+
+Code: 345001
+
 UCR Project Registration Number 105
 
 Project participants Project Owner- Wind World India Pvt Ltd
