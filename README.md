@@ -59,3 +59,28 @@ Serial Number: 0001-054510-129031-UCR-CoU-IN-105-01012021-31122021
 Vintage Year: 2021
 
 CoU's Available: 74522
+____________
+ISSUANCE DATE: 20/06/2025
+
+QTY: 188582
+
+MP-02: 2022-2024
+_________
+Serial Number: 0002-012501-082588-UCR-CoU-IN-105-01012022-31122022
+
+Vintage Year: 2022
+
+Quantity: 70088
+______________
+Serial Number: 0002-082589-154740-UCR-CoU-IN-105-01012023-31122023
+
+Vintage Year: 2023
+
+Quantity: 72152
+____________
+Serial Number: 0002-154741-201082-UCR-CoU-IN-105-01012024-31122024
+
+Vintage Year: 2024
+
+Quantity: 46342
+_______________
